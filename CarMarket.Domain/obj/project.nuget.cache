@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "AGwtRZjWLJDo+b5tsudG1AhtK7huctSiupAi420LtKOmAFQzjeKaUXfxoFvMyl9aWwJtkBWBk3Wuos1PL6AmOg==",
+  "success": true,
+  "projectFilePath": "D:\\Work folder\\Work\\С#\\Rider\\CarMarket\\CarMarket.Domain\\CarMarket.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Max\\.nuget\\packages\\system.componentmodel.annotations\\5.0.0\\system.componentmodel.annotations.5.0.0.nupkg.sha512",
+    "C:\\Users\\Max\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.20\\microsoft.netcore.app.ref.6.0.20.nupkg.sha512",
+    "C:\\Users\\Max\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.20\\microsoft.windowsdesktop.app.ref.6.0.20.nupkg.sha512",
+    "C:\\Users\\Max\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.20\\microsoft.aspnetcore.app.ref.6.0.20.nupkg.sha512"
+  ],
+  "logs": []
+}

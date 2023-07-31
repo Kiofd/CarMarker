@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="EfCoreDialogsState">
+    <option name="keyValueStorage">
+      <map>
+        <entry key="Common:7e27f1eb-20f3-4505-b6e9-1321e8e16c07:dbContext" value="CarMarket.DAL.ApplicationDbContext" />
+        <entry key="Common:9ec28dfe-ed06-493a-bdd4-b5b246e1a87d:dbContext" value="CarMarket.DAL.ApplicationDbContext" />
+        <entry key="Common:buildConfiguration" value="Debug" />
+        <entry key="Common:noBuild" value="false" />
+        <entry key="Common:outputFolder" value="Migrations" />
+        <entry key="Common:useDefaultConnection" value="true" />
+      </map>
+    </option>
+  </component>
+</project>

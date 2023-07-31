@@ -1,0 +1,6 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/CodeInspection/PencilsConfiguration/ActualSeverity/@EntryValue">INFO</s:String>
+	<s:Boolean x:Key="/Default/UnloadedProject/UnloadedProjects/=67be052a_002D9b3b_002D488c_002Da008_002Dcfe84aba4955_0023CarMarket_002EService/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/UnloadedProject/UnloadedProjects/=7e27f1eb_002D20f3_002D4505_002Db6e9_002D1321e8e16c07_0023CarMarket_002EDAL/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/UnloadedProject/UnloadedProjects/=987f3e34_002Dd526_002D4e08_002D9bbd_002Dfc36a13b5bee_0023CarMarket_002EDomain/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/UnloadedProject/UnloadedProjects/=9ec28dfe_002Ded06_002D493a_002Dbdd4_002Db5b246e1a87d_0023CarMarket/@EntryIndexedValue">True</s:Boolean></wpf:ResourceDictionary>
